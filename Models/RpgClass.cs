@@ -1,4 +1,4 @@
-namespace dotnet_rpg.Controllers.Models
+namespace dotnet_rpg.Models
 {
     public enum RpgClass
     {
